@@ -51,5 +51,5 @@ Base de données relationnelle conçue avec PostgreSQL :
 ## 👩‍💻 Auteure
 
 **Maram Rhayem** — Étudiante L2 Informatique de Gestion, ISG Bizerte  
-📧 maram.rhayem@isgb.ucar.tn  
+📧 maramrhayem9@gmail.com
 🔗 [GitHub](https://github.com/maramrhayem)
